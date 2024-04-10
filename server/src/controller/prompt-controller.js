@@ -18,7 +18,7 @@ module.exports = {
         } catch (error) {
             return res.status(400).json({
                 sucess: false,
-                error: error.response ? error.response : 
+                error: error.response ? error.response.data : 
                 "There was an inssue on the server"
             })
         }

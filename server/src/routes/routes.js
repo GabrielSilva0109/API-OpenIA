@@ -5,4 +5,4 @@ const routes = express.Router()
 
 routes.post('api/prompt', promptController.sendText)
 
-modules.exports = routes
+module.exports = routes
