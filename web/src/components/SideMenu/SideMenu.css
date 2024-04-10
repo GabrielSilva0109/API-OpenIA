@@ -2,8 +2,6 @@
     width: 260px;
     padding: 10px;
     background: #202123;
-
-
 }
 
 .sidemenu-button{
@@ -11,10 +9,13 @@
     border-radius: 5px;
     text-align: left;
     transition: ease 0.25 all;
-
-
 }
 
 .sidemenu-button:hover{
     background: rgba(255,255,255, 0.1);
+}
+
+.sidemenu span {
+    padding-left: 6px;
+    padding-right: 12px;
 }
