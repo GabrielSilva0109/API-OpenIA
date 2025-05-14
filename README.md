@@ -4,14 +4,6 @@
 
 > 👨‍🚀 **Repo for the purpose of personal study**
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipeAguiarCode/node-chatgpt-api.svg">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-chatgpt-api.svg">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipeAguiarCode/node-chatgpt-api.svg">
-</p>
-
 # ⚔️ Proposed Challenge
 
 Create a api integration with openIA text completion  **(ChatGPT)** with Node.
